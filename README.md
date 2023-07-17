@@ -18,6 +18,14 @@ Shell Command: Install 'code' command in PATH
 2. Controls whether entires in .gitignore should be parsed and excluded from the explorer.
 `"explorer.excludeGitIgnore": true`
 
+## Git
+
+Clean-up if files were committed to repo before using .gitignore file: <br>
+`git rm -r --cached .` <br>
+`git add .` <br>
+`git commit -m 'repo clean-up` <br>
+`git push`
+
 ## Python
 Setup venv:
 `python3 -m venv env`
