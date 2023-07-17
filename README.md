@@ -26,8 +26,8 @@ Activate venv:
   Error: Key Error: Break Loop
   https://stackoverflow.com/questions/35045038/how-do-i-use-pytest-with-virtualenv
 
-- Wrong 'requirements.txt' file gets installed
-  `pip cache purge`
-  `pip install --upgrade pip setuptools`
-  `pip install --no-cache-dir -r requirements.txt`
+- Wrong 'requirements.txt' file gets installed: <br>
+  `pip cache purge` <br>
+  `pip install --upgrade pip setuptools` <br>
+  `pip install --no-cache-dir -r requirements.txt` <br>
 
