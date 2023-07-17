@@ -22,11 +22,11 @@ Activate venv:
 `source env/bin/activate`
 
 ## Bugs and Issues
-- Python pytest package
-  Error: Key Error: Break Loop
+- Python pytest package <br>
+  Error: Key Error: Break Loop <br>
   https://stackoverflow.com/questions/35045038/how-do-i-use-pytest-with-virtualenv
 
-- Wrong 'requirements.txt' file gets installed: <br>
+- Wrong `requirements.txt` file gets installed: <br>
   `pip cache purge` <br>
   `pip install --upgrade pip setuptools` <br>
   `pip install --no-cache-dir -r requirements.txt` <br>
