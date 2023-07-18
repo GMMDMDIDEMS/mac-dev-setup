@@ -1,7 +1,20 @@
 # mac-dev-setup
 Development environment setup on macOS
 
+## Homebrew
+Install homebrew
+
+## iTerm
+Install iTerm, don't use `warp`!
+
+Setup iTerm with zsh: `oh-my-zsh`.
+Add `.zshrc` file
+
+## Starship
+
+
 ## Terminal
+
 
 - `cat <file>`: concatenate and display the contents of one or multiple files
 
