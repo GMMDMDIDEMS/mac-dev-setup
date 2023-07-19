@@ -11,7 +11,7 @@ Setup iTerm with zsh: `oh-my-zsh`.
 Add `.zshrc` file
 
 ## Starship
-
+https://starship.rs/
 
 ## Terminal
 

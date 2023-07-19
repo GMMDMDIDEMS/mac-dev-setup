@@ -1,0 +1,62 @@
+{
+    "terminal.integrated.fontFamily": "Hack Nerd Font Mono",
+    "terminal.integrated.fontSize": 14,
+    "editor.largeFileOptimizations": false,
+    "editor.minimap.enabled": false,
+    "workbench.colorCustomizations": {
+        "terminal.background": "#1F1F1F",
+        "terminal.foreground": "#D3D0C8",
+        "terminalCursor.background": "#D3D0C8",
+        "terminalCursor.foreground": "#D3D0C8",
+        "terminal.ansiBlack": "#2D2D2D",
+        "terminal.ansiBlue": "#6699CC",
+        "terminal.ansiBrightBlack": "#747369",
+        "terminal.ansiBrightBlue": "#6699CC",
+        "terminal.ansiBrightCyan": "#66CCCC",
+        "terminal.ansiBrightGreen": "#99CC99",
+        "terminal.ansiBrightMagenta": "#CC99CC",
+        "terminal.ansiBrightRed": "#F2777A",
+        "terminal.ansiBrightWhite": "#F2F0EC",
+        "terminal.ansiBrightYellow": "#FFCC66",
+        "terminal.ansiCyan": "#66CCCC",
+        "terminal.ansiGreen": "#99CC99",
+        "terminal.ansiMagenta": "#CC99CC",
+        "terminal.ansiRed": "#F2777A",
+        "terminal.ansiWhite": "#D3D0C8",
+        "terminal.ansiYellow": "#FFCC66"
+    },
+    "terminal.external.osxExec": "iTerm.app",
+    "settingsSync.ignoredSettings": [],
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "editor.accessibilitySupport": "on",
+    "editor.matchBrackets": "never",
+    "editor.fontLigatures": true,
+    "rust-analyzer.checkOnSave.overrideCommand": null,
+    "rust-analyzer.rustfmt.extraArgs": [
+        "+nightly"
+    ],
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "audioCues.lineHasInlineSuggestion": "off",
+    "audioCues.lineHasFoldedArea": "off",
+    "audioCues.lineHasError": "off",
+    "audioCues.lineHasBreakpoint": "off",
+    "audioCues.noInlayHints": "off",
+    "audioCues.onDebugBreak": "off",
+    "window.zoomLevel": 1,
+    "editor.codeActionsOnSave": {},
+    "audioCues.taskCompleted": "off",
+    "audioCues.taskFailed": "off",
+    "audioCues.terminalQuickFix": "off",
+    "settingsSync.ignoredExtensions": [],
+    "git.openRepositoryInParentFolders": "never",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.formatOnSave": true,
+    "tabnine.experimentalAutoImports": true
+}
