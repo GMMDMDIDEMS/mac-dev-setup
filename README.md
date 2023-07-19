@@ -39,6 +39,9 @@ Clean-up if files were committed to repo before using .gitignore file: <br>
 `git commit -m 'repo clean-up` <br>
 `git push`
 
+- Undo `git init`:
+  `rm -rf .git`
+
 ## Python
 Setup venv:
 `python3 -m venv env`
