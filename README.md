@@ -40,10 +40,44 @@ Clean-up if files were committed to repo before using .gitignore file: <br>
 `git rm -r --cached .` <br>
 `git add .` <br>
 `git commit -m 'repo clean-up` <br>
-`git push`
+`git push` <br>
+
+
+`git show <id>` <br>
+`git log -p` <br>
+`git log --stat` <br>
+`git diff` <br>
+`git add -p` <br>
+`git checkout <file>` - git checkout restores files to the latest stored snapshot, reverting any changes before staging.<br> 
+`git reset HEAD <file>` - remove changes from the staging area <br>
+`git commit --amend` - modify and add changes to the most recent commit. Only for local changes, because will change git history!!! <br>
+`git branch` - list branches <br>
+`git branch <branch_name>` - create new branch <br>
+`git checkout <existing_branch>` <br>
+`git checkout -b <new_branch>` <br>
+`git branch -d <branch>` - delete branch <br>
+`git merge <branch>` - merges branch with current branch <br>
+`git log -p origin/master` <br>
+`git log --graph --oneline --all` <br>
+`git remote -v` <br>
+`git rebase <branch>` <br>
+`git push --delete origin <branch>` - delete after succesfull merge <br>
+`git rebase -i <master>`
+
+
+
+Rollback
+`git revert HEAD` - new commit is created with inverse changes. This cancels previous changes instead of making it as though the original commit never happened. <br>
+`git revert <commit_id>`
+
+Delete and rename files
+`git rm <file>`
+`git mv <old_file> <new_file>`
 
 - Undo `git init`:
   `rm -rf .git`
+
+
 
 ## Python
 Setup venv:
