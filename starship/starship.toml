@@ -13,4 +13,4 @@ add_newline = true
 disabled = true
 
 [battery]
-disabled = true
+disabled = true # suppress battery warning "(starship::modules::battery): Unable to access battery information"
