@@ -65,6 +65,21 @@ Clean-up if files were committed to repo before using .gitignore file: <br>
 `git push --delete origin <branch>` - delete after succesfull merge <br>
 `git rebase -i <master>`
 
+PR steps
+1. Check `git remote -v`
+2. New branch: `git checkout -b "new_branch_name"`
+3. `git remote add upstream https://github.com/original_author/original_repo_name`
+4. `git push -u origin <new branch>`
+   
+Find a project you want to contribute to
+Fork it
+Clone it to your local system
+Make a new branch
+Make your changes
+Push it back to your repo
+Click the Compare & pull request button
+Click Create pull request to open a new pull request
+   
 
 
 Rollback

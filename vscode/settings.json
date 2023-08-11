@@ -33,7 +33,6 @@
     "editor.accessibilitySupport": "on",
     "editor.matchBrackets": "never",
     "editor.fontLigatures": true,
-    "rust-analyzer.checkOnSave.overrideCommand": null,
     "rust-analyzer.rustfmt.extraArgs": [
         "+nightly"
     ],
@@ -58,5 +57,10 @@
     },
     "editor.unicodeHighlight.invisibleCharacters": false,
     "editor.formatOnSave": true,
-    "tabnine.experimentalAutoImports": true
+    "audioCues.diffLineDeleted": "off",
+    "audioCues.diffLineInserted": "off",
+    "audioCues.diffLineModified": "off",
+    "audioCues.notebookCellCompleted": "off",
+    "audioCues.notebookCellFailed": "off",
+    "audioCues.volume": 0
 }
