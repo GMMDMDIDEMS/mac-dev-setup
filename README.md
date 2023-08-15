@@ -63,7 +63,17 @@ Clean-up if files were committed to repo before using .gitignore file: <br>
 `git remote -v` <br>
 `git rebase <branch>` <br>
 `git push --delete origin <branch>` - delete after succesfull merge <br>
-`git rebase -i <master>`
+`git rebase -i <master>` <br>
+`git diff --cached` - to check files after they've been added with `git add `
+
+Delete braches locally and remote: <br>
+https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely
+
+Update/sync remote repository: <br>
+https://stackoverflow.com/questions/7244321/how-do-i-update-or-sync-a-forked-repository-on-github
+
+Pipreqs UniDecodeError:
+`pipreqs . --ignore "env_name"`
 
 PR steps
 1. Check `git remote -v`
@@ -117,3 +127,5 @@ Activate venv:
 - Editing Text Files With Vi (https://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/)
 - https://github.com/nicolashery/mac-dev-setup#visual-studio-code
 - How to share (vscode, python, terminal) settings between different devices
+- `pyenv` (https://blog.teclado.com/how-to-use-pyenv-manage-python-versions/) vs `virtualenv`
+- `pipreqs` vs `pip freeze` (https://github.com/bndr/pipreqs)
