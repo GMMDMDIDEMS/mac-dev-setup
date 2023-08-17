@@ -14,6 +14,10 @@ Add `.zshrc` file
 ## Starship
 https://starship.rs/
 
+Configuration: https://starship.rs/config/ <br> 
+Emojis: https://emojipedia.org/
+command+control+space
+
 ## Terminal
 
 
@@ -112,6 +116,15 @@ Setup venv:
 Activate venv:
 `source env/bin/activate`
 
+## Conda
+Setup env and create `.yml` file: https://stackoverflow.com/questions/51042589/conda-version-pip-install-r-requirements-txt-target-lib
+Conda cheatsheet: https://conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf
+
+## Mamba-Forge
+https://github.com/Paradoxdruid/mamba-how-to
+
+
+
 ## Bugs, Issues and Fixes
 - Python pytest package <br>
   Error: Key Error: Break Loop <br>
@@ -129,3 +142,4 @@ Activate venv:
 - How to share (vscode, python, terminal) settings between different devices
 - `pyenv` (https://blog.teclado.com/how-to-use-pyenv-manage-python-versions/) vs `virtualenv`
 - `pipreqs` vs `pip freeze` (https://github.com/bndr/pipreqs)
+- `mamba-forge` vs `conda-forge` vs `miniforge`
