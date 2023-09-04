@@ -93,7 +93,14 @@ Make your changes
 Push it back to your repo
 Click the Compare & pull request button
 Click Create pull request to open a new pull request
-   
+
+### Update PR Fork
+https://stackoverflow.com/questions/7244321/how-do-i-update-or-sync-a-forked-repository-on-github
+
+### Discard unstaged changes
+https://stackoverflow.com/questions/52704/how-do-i-discard-unstaged-changes-in-git
+
+
 
 
 Rollback
@@ -115,6 +122,11 @@ Setup venv:
 
 Activate venv:
 `source env/bin/activate`
+
+### Pyenv, Poetry
+pyenv shell 3.8.12
+poetry env use python3.8
+poetry install
 
 ## Conda
 Setup env and create `.yml` file: https://stackoverflow.com/questions/51042589/conda-version-pip-install-r-requirements-txt-target-lib
