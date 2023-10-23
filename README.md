@@ -155,3 +155,5 @@ https://github.com/Paradoxdruid/mamba-how-to
 - `pyenv` (https://blog.teclado.com/how-to-use-pyenv-manage-python-versions/) vs `virtualenv`
 - `pipreqs` vs `pip freeze` (https://github.com/bndr/pipreqs)
 - `mamba-forge` vs `conda-forge` vs `miniforge`
+- add `ssh` commands
+- [Number of lines in github repository](https://stackoverflow.com/questions/26881441/can-you-get-the-number-of-lines-of-code-from-a-github-repository)
