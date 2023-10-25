@@ -157,3 +157,5 @@ https://github.com/Paradoxdruid/mamba-how-to
 - `mamba-forge` vs `conda-forge` vs `miniforge`
 - add `ssh` commands
 - [Number of lines in github repository](https://stackoverflow.com/questions/26881441/can-you-get-the-number-of-lines-of-code-from-a-github-repository)
+- [How to import requirements.txt from an existing project using Poetry](https://stackoverflow.com/questions/62764148/how-to-import-requirements-txt-from-an-existing-project-using-poetry)
+- shell script to unpack and delete all .zip files within a folder
