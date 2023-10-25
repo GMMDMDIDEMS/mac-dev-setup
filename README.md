@@ -159,3 +159,4 @@ https://github.com/Paradoxdruid/mamba-how-to
 - [Number of lines in github repository](https://stackoverflow.com/questions/26881441/can-you-get-the-number-of-lines-of-code-from-a-github-repository)
 - [How to import requirements.txt from an existing project using Poetry](https://stackoverflow.com/questions/62764148/how-to-import-requirements-txt-from-an-existing-project-using-poetry)
 - shell script to unpack and delete all .zip files within a folder
+- [How can I find what is taking up the space?](https://askubuntu.com/questions/911865/no-more-disk-space-how-can-i-find-what-is-taking-up-the-space)
