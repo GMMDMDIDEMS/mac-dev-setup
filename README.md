@@ -160,3 +160,4 @@ https://github.com/Paradoxdruid/mamba-how-to
 - [How to import requirements.txt from an existing project using Poetry](https://stackoverflow.com/questions/62764148/how-to-import-requirements-txt-from-an-existing-project-using-poetry)
 - shell script to unpack and delete all .zip files within a folder
 - [How can I find what is taking up the space?](https://askubuntu.com/questions/911865/no-more-disk-space-how-can-i-find-what-is-taking-up-the-space)
+- [How can I switch word wrap on and off in Visual Studio Code?](https://stackoverflow.com/questions/31025502/how-can-i-switch-word-wrap-on-and-off-in-visual-studio-code)
